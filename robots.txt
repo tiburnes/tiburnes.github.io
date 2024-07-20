@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://tiburnes.github.io/sitemap
+Sitemap: https://tiburnes.github.io/app/sitemap
+Sitemap: https://tiburnes.github.io/assets/sitemap
+Sitemap: https://tiburnes.github.io/css/sitemap
+Sitemap: https://tiburnes.github.io/includes/sitemap
+Sitemap: https://tiburnes.github.io/item/sitemap
+Sitemap: https://tiburnes.github.io/src/sitemap
